@@ -6,7 +6,7 @@
 |---|-----|
 |Name|板橋毅彦 (Takehiko Itabashi)|
 |GitHub|[https://github.com/mp3](https://github.com/mp3)|
-|CodePen|[https://codepen.io/reprise/](https://codepen.io/reprise/)|
+|CodePen|[https://codepen.io/reprise](https://codepen.io/reprise)|
 
 ## 職務経歴
 
